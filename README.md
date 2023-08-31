@@ -36,7 +36,7 @@ Each project folder may contain the following files:
 <a name='2'></a>
 ## Step by Step Projects
 
-- [Deep Neural Network Step by Step](https://github.com/lsubtil/data-science-portfolio/tree/main/Step_by_Step_Projects/Deep_Nueral_Network_Step_by_Step): entire numpy implementation of a n-layer deep neural network.
+- [Deep Neural Network Step by Step](https://github.com/lsubtil/data-science-portfolio/tree/main/Step_by_Step_Projects/Deep_Neural_Network_Step_by_Step): entire numpy implementation of a n-layer deep neural network.
 
 - [Optimization Methods Step by Step](https://github.com/lsubtil/data-science-portfolio/tree/main/Step_by_Step_Projects/Optimization_Methods_Step_by_Step): entire numpy implementation of well known optmization methods with performance comparation tests.
 
