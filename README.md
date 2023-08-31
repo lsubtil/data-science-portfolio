@@ -2,7 +2,7 @@
 
 ## Repository Description
 
-This repository contains all the projects I've been working on in the last years with the aim of learning and developing skills related to data science, machine learning and deep learning.
+Repository with personal projects developed for learning and skills improvement purposes in the areas of Data Science, Machine Learning, Deep Learning and AI.
 <br>
 
 
