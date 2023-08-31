@@ -5,6 +5,7 @@
 This repository contains all the projects I've been working on in the last years with the aim of learning and developing skills related to data science, machine learning and deep learning.
 <br>
 
+
 ## Summary 
 - [Repository Organization](#1)
 - [Step by Step Projects](#2)
@@ -35,31 +36,29 @@ Each project folder may contain the following files:
 <a name='2'></a>
 ## Step by Step Projects
 
-breve explicação sobre o desenvolvimento de projetos 'step by step'
+- [Deep Neural Network Step by Step](https://github.com/lsubtil/data-science-portfolio/Step-by-Step-Projects/Deep_Nueral_Network_Step_by_Step.ipynb): entire numpy implementation of a n-layer deep neural network.
 
-- [Deep Nueral Network Step by Step](Deep_Nueral_Network_Step_by_Step.pynb)
+- [Optimization Methods Step by Step](https://github.com/lsubtil/data-science-portfolio/Step-by-Step-Projects/Optimization_Methods_Step_by_Step.ipynb): entire numpy implementation of three optmization methods with performance comparation tests.
 
-- Optimization Methods Step by Step
+- [Convolutional Neural Network Step by Step](https://github.com/lsubtil/data-science-portfolio/Step-by-Step-Projects/Convolutional_Neural_Network_Step_by_Step.ipynb): entire numpy implementation of a n-layer convolutional neural network.
 
-- Convolutional Neural Network Step by Step
+- [Residual Network Step by Step](https://github.com/lsubtil/data-science-portfolio/Step-by-Step-Projects/Residual_Network_Step_by_Step.ipynb): tensorflow implementation of the ResNet-50.
 
-- Residual Network Step by Step
+- [Recurrent Neural Network Step by Step](https://github.com/lsubtil/data-science-portfolio/Step-by-Step-Projects/Recurrent_Neural_Network_Step_by_Step.ipynb): entire numpy implementation of a recurrent neural network.
 
-- Recurrent Neural Network Step by Step
+- [Long Short Term Memory Step by Step](https://github.com/lsubtil/data-science-portfolio/Step-by-Step-Projects/Long_Short_Term_Memory_Step_by_Step.ipynb): entire numpy implementation of a LSTM network.
 
-- Long Short Term Memory Step by Step
-
-- Transformers Step by Step
+- [Transformers Step by Step](https://github.com/lsubtil/data-science-portfolio/Step-by-Step-Projects/Transformers_Step_by_Step.ipynb): tensorflow implementation of a Transformers network.
 <br>
 
 
 <a name='3'></a>
 ### Pratical Projects
 
-- Sign Language Identification: 
+- [Sign Language Identification](https://github.com/lsubtil/data-science-portfolio/Practical-Projects/Sign_Language_Identification_Model.ipynb): development of a model capable of identifing numbers sign language from 0 to 5, using CNN.
 
-- Car Detection System: 
+- [Car Detection System](https://github.com/lsubtil/data-science-portfolio/Practical-Projects/Car_Detection_System.ipynb): post-processing of a car detection pre-trained model, through the implementation of Non-max Supression and Intersection over Union techniques.
 
-- Street Images Segmentation: 
+- [Street Images Segmentation](https://github.com/lsubtil/data-science-portfolio/Practical-Projects/Street_Images_Segmentation.ipynb): development of an image segmentation model of street pictures, using UNet.
 
-- Neural Machine Translation: 
+- [Neural Machine Translation](https://github.com/lsubtil/data-science-portfolio/Practical-Projects/Neural_Machine_Translation.ipynb):  development of a model capable of translate human readable dates into machine readable dates, using LSTM with Attention mechanism.
