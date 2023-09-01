@@ -53,7 +53,7 @@ Each project folder may contain the following files:
 
 
 <a name='3'></a>
-### Pratical Projects
+## Pratical Projects
 
 - [Sign Language Identification](https://github.com/lsubtil/data-science-portfolio/tree/main/Practical_Projects/Sign_Language_Identification_Model): development of a model capable of identifing numbers sign language from 0 to 5, using CNN.
 
